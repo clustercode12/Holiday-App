@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolidayApp</string>
+    <string name="days_accrued_to_date_this_holiday_year">Days Accrued To Date This Holiday Year</string>
+    <string name="days_taken_and_booked_this_holiday_year">Days Taken And Booked This Holiday Year</string>
+    <string name="days_remaining_this_holiday_year">Days Remaining This Holiday Year</string>
+    <string name="estimated_yearly_holiday_entitlement">Estimated Yearly Holiday Entitlement</string>
+    <string name="holiday_year">Holiday Year</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="incorrect_username_or_password">Sorry, but the username or password is incorrect.</string>
+    <string name="position">position</string>
+</resources>
